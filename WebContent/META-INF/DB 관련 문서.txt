@@ -1,0 +1,5 @@
+본인 컴퓨터일 때임.
+
+D:\>sqlplus / as sysdba - 접속 명령
+SQL> create user holoyolo identified by 1234
+SQL> GRANT CONNECT, RESOURCE TO holoyolo;
